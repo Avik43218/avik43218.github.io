@@ -17,7 +17,7 @@ A CLI-based Toolkit providing features such as unique password generator, streng
 
 I'm a self-taught backend developer who enjoys building practical tools, exploring cybersecurity, and solving real-world problems. Currently diving deeper into:
 
-- FastAPI
+- FastAPI and Flask
 - SQL and NoSQL databases
 - Go (Golang)
 - System design
