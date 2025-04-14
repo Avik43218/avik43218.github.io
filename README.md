@@ -8,10 +8,17 @@ This site serves as a central hub for my work as a backend-focused developer. I 
 
 ### [CyberSecurityToolkit](https://avik43218.github.io/CyberSecurityToolkit/)
 A CLI-based Toolkit providing features such as unique password generator, strength evaluator and secure storage.
-**Tech Stack**: Python, Cryptography, MySQL
+**Tech Stack**: Python 3, Cryptography, MySQL
 [View on GitHub](https://github.com/avik43218/CyberSecurityToolkit)
 
 ---
+
+## Upcoming Projects
+
+### Web-based Word Game (In Progress)
+A simple and fun web-based word guessing game made in Python.
+**Tech Stack**: Python 3, Flask, HTML, CSS, JavaScript
+**Expected Release**: "Coming Soon"
 
 ## About Me
 
