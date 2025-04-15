@@ -28,7 +28,7 @@ A simple and fun web-based word guessing game made in Python. <br />
 
 ## About Me
 
-I'm a self-taught backend developer who enjoys building practical tools, exploring cybersecurity, and solving real-world problems. Currently diving deeper into:
+I'm a self-taught software developer who enjoys building practical tools, exploring cybersecurity, and solving real-world problems. Currently diving deeper into:
 
 - FastAPI and Flask
 - SQL and NoSQL databases
