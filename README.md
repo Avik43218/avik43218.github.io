@@ -8,8 +8,14 @@ This site serves as a central hub for my work as a backend-focused developer. I 
 
 ### [CyberSecurityToolkit](https://avik43218.github.io/CyberSecurityToolkit/)
 A CLI-based Toolkit providing features such as unique password generator, strength evaluator and secure storage.
-**Tech Stack**: Python 3, Cryptography, MySQL
+**Tech Stack**: Python 3, Cryptography, MySQL <br />
 [View on GitHub](https://github.com/avik43218/CyberSecurityToolkit)
+
+
+### [WeatherDataAnalysis]()
+A Python-based data analysis project that explores weather trends and visualizes relationships between temperature and precipitation using powerful graphical representations and structured data storage.
+**Tech Stack**: Python 3, MySQL <br />
+[View on GitHub](https://github.com/avik43218/WeatherDataAnalysis)
 
 ---
 
