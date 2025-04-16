@@ -17,6 +17,12 @@ A Python-based data analysis project that explores weather trends and visualizes
 **Tech Stack**: Python 3, MySQL <br />
 [View on GitHub](https://github.com/avik43218/WeatherDataAnalysis)
 
+
+### [WordMaster](https://avik43218.github.io/WordMaster/)
+WordMaster is an interactive web-based word guessing game built using Flask. It challenges players with 10 thrilling rounds of word deduction using logic, hints, and careful guessing. <br />
+**Tech Stack**: Python 3, Flask <br />
+[View on GitHub](https://github.com/avik43218/WordMaster)
+
 ---
 
 ## About Me
