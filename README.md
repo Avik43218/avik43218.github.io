@@ -27,10 +27,10 @@ A Python-based data analysis project that explores weather trends and visualizes
 
 ## Upcoming Projects
 
-### Web-based Word Game (In Progress)
-A simple and fun web-based word guessing game made in Python. <br />
-**Tech Stack**: Python 3, Flask, HTML, CSS, JavaScript <br />
-**Expected Release**: "Coming Soon"
+### Blog Post Site
+An online blog post site with clean and responsive UI, user authentication, and customisation. <br />
+**Tech Stack**: Python 3, Flask, SQLAlchemy, SQLite3, HTML, CSS, JavaScript <br />
+**Release Date**: 25th May, 2025
 
 ## About Me
 
