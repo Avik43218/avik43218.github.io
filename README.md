@@ -31,20 +31,13 @@ A secure and customizable social media platform built with Flask. This app integ
 
 ---
 
-## Upcoming Projects
-
-### Blog Post Site
-An online blog post site with clean and responsive UI, user authentication, and customisation. <br />
-**Tech Stack**: Python 3, Flask, SQLAlchemy, SQLite3, HTML, CSS, JavaScript <br />
-**Release Date**: 25th May, 2025
-
 ## About Me
 
 I'm a self-taught software developer who enjoys building practical tools, exploring cybersecurity, and solving real-world problems. Currently diving deeper into:
 
 - FastAPI and Flask
 - SQL and NoSQL databases
-- Go (Golang)
+- numpy, matplotlib, pandas
 - System design
 
 ## Contact
