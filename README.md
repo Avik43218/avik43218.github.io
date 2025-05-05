@@ -23,6 +23,12 @@ A Python-based data analysis project that explores weather trends and visualizes
 **Tech Stack**: Python 3, MySQL <br />
 [View on GitHub](https://github.com/avik43218/WeatherDataAnalysis)
 
+
+### [FlaskVault]()
+A secure and customizable social media platform built with Flask. This app integrates core features of a modern social site with a personal password manager for enhanced security.  <br />
+**Tech Stack**: Python 3, Flask, Flask-SQLAlchemy, SQLite3  <br />
+[View on GitHub](https://github.com/avik43218/FlaskVault)
+
 ---
 
 ## Upcoming Projects
