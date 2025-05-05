@@ -37,7 +37,7 @@ I'm a self-taught software developer who enjoys building practical tools, explor
 
 - FastAPI and Flask
 - SQL and NoSQL databases
-- Go (Golang)
+- numpy, matplotlib, pandas
 - System design
 
 ## Contact
