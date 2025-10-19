@@ -29,14 +29,26 @@ A secure and customizable social media platform built with Flask. This app integ
 **Tech Stack**: Python 3, Flask, Flask-SQLAlchemy, SQLite3  <br />
 [View on GitHub](https://github.com/avik43218/FlaskVault)
 
+
+### [Tic-Tac-Toe]()
+The traditional game of Tic-Tac-Toe remade digitally using modern GUI and an AI opponent! This game is made using `pygame` GUI and the minimax AI algorithm, which is unbeatable.  <br />
+**Tech Stack**: Python 3  <br />
+[View on GitHub](https://github.com/Avik43218/Tic-Tac-Toe)
+
+
+### [BALDW64-Hashing-Algorithm]()
+An experimental, cryptographic hashing algorithm made by taking inspiration from SHA-256. Designed for stress testing, this algorithm is only for educational purposes, and should not be used in real-world systems unless heavily scrutinized!   <br />
+**Tech Stack**: Python 3   <br />
+[View on GitHub](https://github.com/Avik43218/Tic-Tac-Toe)
+
 ---
 
 ## About Me
 
 I'm a self-taught software developer who enjoys building practical tools, exploring cybersecurity, and solving real-world problems. Currently diving deeper into:
 
-- FastAPI and Flask
-- SQL and NoSQL databases
+- C++ and CUDA
+- Python 
 - numpy, matplotlib, pandas
 - System design
 
