@@ -39,7 +39,7 @@ The traditional game of Tic-Tac-Toe remade digitally using modern GUI and an AI 
 ### [BALDW64-Hashing-Algorithm]()
 An experimental, cryptographic hashing algorithm made by taking inspiration from SHA-256. Designed for stress testing, this algorithm is only for educational purposes, and should not be used in real-world systems unless heavily scrutinized!   <br />
 **Tech Stack**: Python 3   <br />
-[View on GitHub](https://github.com/Avik43218/Tic-Tac-Toe)
+[View on GitHub](https://github.com/Avik43218/BALDW64-Hashing-Algorithm)
 
 ---
 
